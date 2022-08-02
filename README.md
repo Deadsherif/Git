@@ -1,2 +1,2 @@
-# trying to build my application with GIT
+# Trying to build my application with GIT
 testing my git 
